@@ -7,6 +7,7 @@ The three types of process are:
   1) vessels that want to bind and stay for some finite time/space in the port
   2) port master
   3) port operation monitor
+  
 The above types of processes are independent programs that can run simultaneously and to implement cooperatively what is happening in a port.
 
 ### Supervisors
